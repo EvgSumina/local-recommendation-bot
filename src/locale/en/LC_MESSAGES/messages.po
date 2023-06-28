@@ -1,0 +1,41 @@
+# English translations for PROJECT.
+# Copyright (C) 2023 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2023-06-26 15:39+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.12.1\n"
+
+#: src/core/state_diagram.py:21
+msgid "Рестораны 🍳"
+msgstr "Restraunts 🍳"
+
+#: src/core/state_diagram.py:22
+msgid "Магазины 🛒"
+msgstr "Shops 🛒"
+
+#: src/core/state_diagram.py:23
+msgid "Парки 🌲"
+msgstr "Parks 🌲"
+
+#: src/core/state_diagram.py:24
+msgid "Театры 🎭"
+msgstr "Theatres 🎭"
+
+#: src/core/state_diagram.py:25
+msgid "Музеи 🖼️"
+msgstr "Museums 🖼️"
+
